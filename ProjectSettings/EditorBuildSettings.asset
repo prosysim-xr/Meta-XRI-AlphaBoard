@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Meta XR Interaction SDK OVR Samples/63.0.0/Tools/HandGrabPoseTool.unity
+    guid: 8d12702353d5fd74ba260506070081fd
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 08e997db604a02c48b8ce789fc569b4d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e1fb69d99f24bba43b2b3ae037171a74, type: 2}
